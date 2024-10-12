@@ -3,6 +3,8 @@
 ## URL
 https://jam.ludumdare.com/events/ludum-dare/55/voir-dire
 
+https://github.com/nirvana233/LD55.git
+
 ## 描述
 一款2D游戏，律师题材。画面比较精美，动画做的很好，代码层面东西不算很多很复杂，主要是动画那些比较多。动画有些是自己写的一些插值之类的数学库做的，有些就是Animation做的。
 
